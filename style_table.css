@@ -1,0 +1,25 @@
+th ,td{
+    border: 2px solid rgb(243, 241, 237);
+}
+th{
+    font-size: 17px;
+    padding: 14px;
+}
+#one:hover{
+    background-color: rgba(104, 97, 97, 0.596);
+}
+.two{
+    font-size:  27px; 
+}
+
+.last-row{
+    background-color: rgb(52, 52, 122);
+    color: white;
+}
+.last-row2{
+    background-color: rgb(12, 235, 243);
+    color: white;
+}
+.fourth-row{
+    background-color: rgba(104, 97, 97, 0.596);
+}
